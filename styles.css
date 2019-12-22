@@ -1,0 +1,38 @@
+.main-div {
+    background-image: url("./images/background.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+.scroll-div {
+    background-image: url("./images/scroll.png");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 70%;
+    height: 100vh;
+}
+
+.btn-div {
+    width: 100%;
+}
+
+.cursive {
+    font-family: Apple Chancery, cursive;
+}
+
+.spacer {
+    height: 12vh;
+}
+
+.small-spacer {
+    height: 2vh;
+}
+
+#result {
+    width: 40%;
+    border-radius: 15px;
+    min-height: 250px;
+}
