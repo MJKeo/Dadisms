@@ -31,8 +31,21 @@
     height: 2vh;
 }
 
+.phone-spacer {
+    height: 35vh;
+}
+
 #result {
     width: 40%;
     border-radius: 15px;
     min-height: 250px;
+    font-size: 3vw;
+}
+
+.reduced-result-size {
+    font-size: 2vw;
+}
+
+.gone {
+    display: none;
 }
