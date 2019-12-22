@@ -2,7 +2,7 @@ var output = document.getElementById("result");
 var button = document.getElementById("button");
 
 var phrases = [
-    "*someone dabs* \"Dib!",
+    "*someone dabs* \"Dib!\"",
     "\"Ghost busters, were'nt those the guys on Discovery Channel?\"",
     "\"Fing shwa\" (intended to be feng shui",
     "\"Kernel Tunnel Syndrome\"",
