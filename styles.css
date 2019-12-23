@@ -11,12 +11,26 @@
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    width: 70%;
+    width: 80%;
     height: 100vh;
 }
 
 .btn-div {
     width: 100%;
+}
+
+.my-flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.my-flex-height {
+    height: 50%;
+}
+
+.my-flex-height-phone {
+    height: 20%;
 }
 
 .cursive {
@@ -32,18 +46,25 @@
 }
 
 .phone-spacer {
-    height: 35vh;
+    height: 33vh;
 }
 
 #result {
-    width: 40%;
+    width: 35%;
     border-radius: 15px;
-    min-height: 250px;
-    font-size: 3vw;
+    font-size: 2.5vw;
 }
 
 .reduced-result-size {
     font-size: 2vw;
+}
+
+.phone-title {
+    font-size: 6vw;
+}
+
+.phone-button-text {
+    font-size: 2.5vw;
 }
 
 .gone {

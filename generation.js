@@ -2,12 +2,17 @@ var output = document.getElementById("result");
 var button = document.getElementById("button");
 var spacer = document.getElementById("variable");
 var optional = document.getElementById("optional");
+var height = document.getElementById("height");
+var title = document.getElementById("title");
 
 if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent)) {
     spacer.classList.remove("spacer");
     spacer.classList.add("phone-spacer");
-    optional.classList.add("gone");
     output.classList.add("reduced-result-size");
+    height.classList.remove("my-flex-height");
+    height.classList.add("my-flex-height-phone");
+    button.classList.add("phone-button-text");
+    title.classList.add("phone-title");
 }
 
 var phrases = [
