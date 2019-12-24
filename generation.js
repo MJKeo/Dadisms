@@ -18,13 +18,20 @@ if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phone
 var phrases = [
     "*someone dabs* \"Dib!\"",
     "\"Ghost busters, were'nt those the guys on Discovery Channel?\"",
-    "\"Fing shwa\" (intended to be feng shui",
+    "\"Fing shwa\" (intended to be feng shui)",
     "\"Kernel Tunnel Syndrome\"",
-    "the quality of being impudent; impertinence",
+    "The quality of being impudent; impertinence",
     "\"No it snot\"",
     "Wiki: pliable twigs, typically of willow, plaited or woven to make items such as furniture and baskets",
     "A common workout tool, the cowbell",
-    "christmas swag = \'swagger\'"
+    "Christmas swag = \'swagger\'",
+    "Anctient Egyptian Hydroglyphics",
+    "\"Almost is only good in horseshoes\"",
+    "\"Even broken clock is right twice a day\"",
+    "\"A poor craftsman blames his tools\"",
+    "\"To see one merely has to look\"",
+    "\"That's what separates us from the monkeys\"",
+    "\"Don't worry I'm a doctor\""
 ];
 
 
